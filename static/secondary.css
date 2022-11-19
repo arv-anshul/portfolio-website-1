@@ -1,0 +1,16 @@
+/* Secondary CSS for my portfolio website */
+h2 {
+    margin-bottom: 12px !important;
+}
+
+.future-learning {
+    padding-bottom: 10px;
+}
+
+i.fa-check {
+    color: #0c0;
+}
+
+i.fa-clock-o {
+    color: #c00;
+}
