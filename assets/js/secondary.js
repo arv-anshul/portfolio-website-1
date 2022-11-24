@@ -118,7 +118,7 @@ for (const item of projects.reverse()) {
   colDiv.setAttribute("class", "col-md-4");
 
   imgTag = document.createElement("img");
-  imgTag.setAttribute("src", `./assets/images/${item[0]}`);
+  imgTag.setAttribute("src", `./images/${item[0]}`);
   imgTag.setAttribute("class", "img-responsive");
   colDiv.appendChild(imgTag);
 
